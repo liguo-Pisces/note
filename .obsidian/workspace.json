@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a88d93104472faa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C & C++/字符串、向量和数组.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C & C++/变量和基本类型.md",
+                "file": "C & C++/字符串、向量和数组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,11 +117,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "0192cac78fa82ddf",
+  "active": "a88d93104472faa5",
   "lastOpenFiles": [
+    "C & C++/变量和基本类型.md",
     "C & C++/TODO.md",
     "Web/JavaScript.md",
-    "C & C++/变量和基本类型.md",
     "工作环境/未命名.md",
     "读书笔记/程序员修炼之道 -- 从小工到专家.md",
     "PHP/PHP路线图.md",
